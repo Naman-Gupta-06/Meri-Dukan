@@ -10,6 +10,8 @@ This web application is built using MERN stack. It allows users to browse and pu
 - Add products to cart
 - Checkout and make payments using Stripe
 - View order history and order details
+- email confirmation upon order placement
+- Enabled guest users to buy products without logging in
 
 ## Installation
 
